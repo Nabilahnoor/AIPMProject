@@ -1,4 +1,4 @@
-# AIPMP OBJECT DETECTION SYSTEM
+# AIPM GROUP F OBJECT DETECTION SYSTEM
 
 ## Project Management Plan
 #### Project Overview : [Project Overview](Overview.md)
